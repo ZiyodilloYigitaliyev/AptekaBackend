@@ -1,5 +1,5 @@
-Django==4.2
-djangorestframework==3.14.0
-Pillow==9.3.0
-django-cors-headers==3.13.0
-python-dotenv==0.21.0
+Django== 5.0.7
+djangorestframework
+Pillow
+django-cors-headers
+python-dotenv
